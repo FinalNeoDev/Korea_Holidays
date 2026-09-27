@@ -1,8 +1,8 @@
 {
     "status": "success",
-    "last_updated": "2026-09-26 18:15:27",
+    "last_updated": "2026-09-27 18:52:01",
     "description": "작년, 올해, 내년, 내후년(4개년) 공휴일 통합 데이터",
-    "total_count": 85,
+    "total_count": 82,
     "data": [
         {
             "dateKind": "01",
@@ -268,27 +268,6 @@
             "dateName": "추석",
             "isHoliday": "Y",
             "locdate": 20260926,
-            "seq": 1
-        },
-        {
-            "dateKind": "01",
-            "dateName": "개천절",
-            "isHoliday": "Y",
-            "locdate": 20261003,
-            "seq": 1
-        },
-        {
-            "dateKind": "01",
-            "dateName": "대체공휴일(개천절)",
-            "isHoliday": "Y",
-            "locdate": 20261005,
-            "seq": 1
-        },
-        {
-            "dateKind": "01",
-            "dateName": "한글날",
-            "isHoliday": "Y",
-            "locdate": 20261009,
             "seq": 1
         },
         {
