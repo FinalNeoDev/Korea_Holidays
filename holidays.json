@@ -1,8 +1,8 @@
 {
     "status": "success",
-    "last_updated": "2026-11-09 23:40:34",
+    "last_updated": "2026-11-10 21:10:15",
     "description": "작년, 올해, 내년, 내후년(4개년) 공휴일 통합 데이터",
-    "total_count": 84,
+    "total_count": 85,
     "data": [
         {
             "dateKind": "01",
@@ -142,6 +142,13 @@
             "dateName": "기독탄신일",
             "isHoliday": "Y",
             "locdate": 20251225,
+            "seq": 1
+        },
+        {
+            "dateKind": "01",
+            "dateName": "1월1일",
+            "isHoliday": "Y",
+            "locdate": 20260101,
             "seq": 1
         },
         {
