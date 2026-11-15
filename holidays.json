@@ -1,8 +1,8 @@
 {
     "status": "success",
-    "last_updated": "2026-11-14 19:40:40",
+    "last_updated": "2026-11-15 20:06:11",
     "description": "작년, 올해, 내년, 내후년(4개년) 공휴일 통합 데이터",
-    "total_count": 84,
+    "total_count": 85,
     "data": [
         {
             "dateKind": "01",
@@ -227,6 +227,13 @@
             "isHoliday": "Y",
             "locdate": 20260606,
             "seq": 2
+        },
+        {
+            "dateKind": "01",
+            "dateName": "제헌절",
+            "isHoliday": "Y",
+            "locdate": 20260717,
+            "seq": 1
         },
         {
             "dateKind": "01",
